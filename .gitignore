@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# local preview / temp
+*.log
+.DS_Store
+Thumbs.db
+
+# downloaded raw export (keep repo clean)
+joyrun_crm_raw.html
+style_block.css
